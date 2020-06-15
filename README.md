@@ -1,2 +1,2 @@
-# my-portfolio
-My portfolio website
+# Antonio Lefinir's portfolio
+This is my professional portfolio. It uses AWS and ReactJS.
